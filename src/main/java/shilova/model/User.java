@@ -1,4 +1,4 @@
-package shilova;
+package shilova.model;
 
 public class User {
     private final String firstName;
